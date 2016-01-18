@@ -10,10 +10,14 @@ f array.  Our f array always has a length that is 1 greater than our counter,
 so we can compute on previous array item.
 */
 
-for (f=[1], i=1, f.push(i); i<50; i++) {
-  f.push(f[i] + f[i-1]);
-} 
+function fibonacci() {
 
-// f.toString() contains the sequence
+  for (f=[1], i=1, f.push(i); i<50; i++) {
+    f.push(f[i] + f[i-1]);
+  } 
 
-document.write('<pre>' + f.toString() + '</pre>');
+  // f.toString() contains the sequence
+
+  document.write('<pre>' + f.toString() + '</pre>');
+
+}
