@@ -1,7 +1,7 @@
 // Generate the Fibonacci Sequence
 
 /*
-Within our for loop we create an array 'f' seed it with an initial 
+Within our for loop we create an array 'f' and seed it with an initial 
 value of 1.  As we loop thru i, up to i = 50, we push new items into
 the array, using the current value of i as our index position.
 
