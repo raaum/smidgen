@@ -7,7 +7,7 @@ the array, using the current value of i as our index position.
 
 We generate the sequence by computing the sum of the previous 2 items in our
 f array.  Our f array always has a length that is 1 greater than our counter, 
-so we can compute on previous array item.
+so we can compute on a previous array index.
 
 /* Fibonacci Sequence
 
