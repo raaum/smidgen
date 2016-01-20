@@ -28,7 +28,7 @@ Within our for loop we create an array 'f' and seed it with an initial value of 
 
 We generate the sequence by computing the sum of the previous 2 item values in our f array.  Our f array always has a length that is 1 greater than our counter, and that allows us to compute on a previous array index.
 
-```
+```javascript
 for (f=[1], i=1, f.push(i); i<50; i++) {
   f.push(f[i] + f[i-1]);
 } 
