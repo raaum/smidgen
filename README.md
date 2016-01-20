@@ -14,11 +14,11 @@ In mathematics, the Fibonacci numbers or Fibonacci sequence are the numbers in t
 
 By definition, the first two numbers in the Fibonacci sequence are either 1 and 1, or 0 and 1, depending on the chosen starting point of the sequence, and each subsequent number is the sum of the previous two.
 
-![Fibonacci Formula](/fibonacci/images/fibonacci-formula.png)
+![Fibonacci Array](/fibonacci/images/fibonacci-array.png)
 
 In mathematical terms, the sequence of Fibonacci numbers is defined by the recurrence relation.
 
-![Fibonacci Array](/fibonacci/images/fibonacci-array.png)
+![Fibonacci Formula](/fibonacci/images/fibonacci-formula.png)
 
 ###fibonacci.js
 
