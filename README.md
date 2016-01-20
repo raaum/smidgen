@@ -22,7 +22,7 @@ In mathematical terms, the sequence of Fibonacci numbers is defined by the recur
 
 ###fibonacci.js
 
-The fibonacci.js script contains two example functions that generate the Fiboacci sequence.
+The fibonacci.js script contains two example functions that generate the Fibonacci sequence.
 
 Within our for loop we create an array 'f' and seed it with an initial value of 1.  As we loop thru i, up to i = 50, we push new items into the array, using the current value of i as our index position.
 
