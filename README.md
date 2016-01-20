@@ -6,7 +6,7 @@ This will eventually be a collection of useful code snippets I have written.
 
 ## Fibonacci
 
-In mathematics, the Fibonacci numbers or Fibonacci sequence are the numbers in the following integer sequence:[1][2]
+In mathematics, the Fibonacci numbers or Fibonacci sequence are the numbers in the following integer sequence:
 
 ```
 1,1,2,3,5,8,13,21,34,55,89,144
